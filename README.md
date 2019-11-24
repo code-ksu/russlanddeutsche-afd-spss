@@ -1,0 +1,3 @@
+# Die Alternative für Russlanddeutsche
+
+Ich untersuche, ob es einen statistischen Zusammenhang zwischen Russlanddeutschen und der AfD gibt. Dafür untersuche ich fünf große Städte: Hamburg, Berlin, Augsburg, Stuttgart und Leipzig. Diese Städte wurden gewählt, da ihre statistischen Landesämter, im Gegensatz zu Flächenstaaten, kleinteilige Informationen bereitstellen, in welchen Gebieten Russlanddeutsche wohnen. Diese Informationen verknüpfe ich mit den verfügbaren Daten zur Bundestagswahl 2017. Die empirische Analyse führe ich mit Hilfe des Programms IBM SPSS durch.
